@@ -39,7 +39,7 @@ body{ /* Tout le contenu du body sera aligné verticalement et sera centré sur 
   color: var(--Dgb);
   font-weight: 400;
   margin-bottom: 20px;
-  box-shadow: 2px 4px 10px black; /*(2px d'ombre pour le décalage horiz. 4 pour le décalage verti. et 10px d'adoucissement */
+  box-shadow: 5px 8px 10px 10px black; /*(2px d'ombre pour le décalage horiz.;  4 pour le décalage verti.; 10px d'adoucissement et 10px de diffusion de l'ombre */
 }
 
 .top{
@@ -99,34 +99,7 @@ span{
   padding-bottom: 5px;
 }
 
-/*#img1, #img2{
-  border: none;
-  position: absolute;
-}
-
-#img1{
-  top: -480px;
-  left: -370px;
-}
-
-#img2{
-  top: 320px;
-  right: -390px;
-}*/
-
-
   .attribution { font-size: 11px; text-align: center; z-index: 1;}
   .attribution a { color: white; }
 
-  /*@media all and (max-width: 1024px )
-  {
-    #img1 {
-      top: -480px;
-      left: -140%;
-    }
 
-    #img2 {
-      top: 320px;
-      right: -140%;
-    }
-  }*/
