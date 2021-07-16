@@ -39,7 +39,7 @@ body{ /* Tout le contenu du body sera aligné verticalement et sera centré sur 
   color: var(--Dgb);
   font-weight: 400;
   margin-bottom: 20px;
-  box-shadow: 3px 5px 10px 10px black; /*(2px d'ombre pour le décalage horiz.;  4 pour le décalage verti.; 10px d'adoucissement et 10px de diffusion de l'ombre */
+  box-shadow: 3px 5px 10px 5px black; /*(2px d'ombre pour le décalage horiz.;  4 pour le décalage verti.; 10px d'adoucissement et 10px de diffusion de l'ombre */
 }
 
 .top{
