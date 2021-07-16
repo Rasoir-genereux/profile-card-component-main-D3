@@ -39,7 +39,7 @@ body{ /* Tout le contenu du body sera aligné verticalement et sera centré sur 
   color: var(--Dgb);
   font-weight: 400;
   margin-bottom: 20px;
-  box-shadow: 1px 1px 40px hsl(185, 75%, 29%); /*(1px d'ombre pour le décalage horiz.;  1 pour le décalage verti.; 20px d'adoucissement et une 4ème valeur serait de diffusion de l'ombre */
+  box-shadow: 1px 1px 40px hsl(185, 75%, 21%); /*(1px d'ombre pour le décalage horiz.;  1 pour le décalage verti.; 20px d'adoucissement et une 4ème valeur serait de diffusion de l'ombre */
 }
 
 .top{
